@@ -1,0 +1,7 @@
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\bin\Release\UntitledGame.exe.config
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\bin\Release\UntitledGame.exe
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\bin\Release\UntitledGame.pdb
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\obj\Release\UntitledGame.csproj.AssemblyReference.cache
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\obj\Release\UntitledGame.csproj.CoreCompileInputs.cache
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\obj\Release\UntitledGame.exe
+C:\Users\jamsh\source\repos\UntitledGame\UntitledGame\obj\Release\UntitledGame.pdb
